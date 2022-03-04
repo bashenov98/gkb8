@@ -34,6 +34,8 @@ const Router = () => {
                 <Route path="/Sangul" element={<Sangul />}></Route>
                 <Route path="/Ainel" element={<Ainel />}></Route>
                 <Route path="/AinurT" element={<AinurT />}></Route>
+                <Route path="/AinurM" element={<AinurM />}></Route>
+                <Route path="/Asema" element={<Asema />}></Route>
                 <Route path="/Aselya" element={<Aselya />}></Route>
                 <Route path="/AyaulymB" element={<AyaulymB />}></Route>
                 <Route path="/AyaulymS" element={<AyaulymS />}></Route>
