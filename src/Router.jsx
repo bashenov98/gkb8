@@ -4,6 +4,8 @@ import Main from "./pages/Main";
 import Sangul from "./pages/Sangul";
 import Ainel from "./pages/Ainel";
 import AinurT from "./pages/AinurT";
+import AinurM from "./pages/AinurM";
+import Asema from "./pages/Asema";
 import Aselya from "./pages/Aselya";
 import AyaulymB from "./pages/AyaulymB";
 import AyaulymS from "./pages/AyaulymS";
